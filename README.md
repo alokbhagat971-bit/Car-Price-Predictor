@@ -19,7 +19,7 @@ Fill in the car details and hit **Predict Price** to get an instant estimate.
 ### Output Page — Prediction Results
 View the estimated selling price along with a detailed vehicle analysis breakdown.
 
-![Output](./screenshots/output.png)
+![Output](./frontend/src/images/result.png)
 
 ---
 
@@ -211,7 +211,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-Made with ❤️ by **[Your Name](https://github.com/your-username)**
+**[Alok Bhagat](https://github.com/your-username)**
 
 ---
 

@@ -21,7 +21,7 @@ function HomePage() {
     company:"",
     year:0,
     fuel_type:"",
-    kms_driven:0
+    kms_driven:""
   });
 
   const companies = [

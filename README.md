@@ -40,7 +40,7 @@ View the estimated selling price along with a detailed vehicle analysis breakdow
 | Frontend | React.js + Vite |
 | Backend / API | Flask (Python) |
 | ML Model | Linear Regression (Scikit-learn) |
-| Styling | CSS |
+| Styling | TailWind CSS |
 | Data | Cleaned Indian Used Car Dataset (CSV) |
 
 ---

@@ -86,7 +86,6 @@ carprice-ai/
 ### Prerequisites
 
 - Python 3.9+
-- Node.js 18+
 - npm or yarn
 
 ---
@@ -110,7 +109,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-The Flask API will start at **http://localhost:5000**
+The Flask API will start at **(http://127.0.0.1:5000)**
 
 ---
 

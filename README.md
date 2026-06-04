@@ -211,7 +211,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**[Alok Bhagat](https://github.com/your-username)**
+**[alokbhagat971-bit](https://github.com/your-username)**
 
 ---
 

@@ -14,7 +14,7 @@
 ### Home Page — Price Estimation Form
 Fill in the car details and hit **Predict Price** to get an instant estimate.
 
-![Homepage](./frontend/src/images/home.png)
+![Homepage](./frontend/src/images/Home.png)
 
 ### Output Page — Prediction Results
 View the estimated selling price along with a detailed vehicle analysis breakdown.

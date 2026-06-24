@@ -1,0 +1,56 @@
+# =========================
+# Python / Flask
+# =========================
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+.env.local
+
+# Flask cache
+instance/
+.pytest_cache/
+
+# =========================
+# React / Vite
+# =========================
+node_modules/
+dist/
+.vite/
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Build / Cache
+# =========================
+.cache/
+coverage/
+
+# =========================
+# Render / Deployment
+# =========================
+.render/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/

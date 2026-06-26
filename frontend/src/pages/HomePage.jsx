@@ -322,9 +322,9 @@ const names = [
   const handlePredict = async () => {
   try {
     const response = await axios.post(
-      "http://127.0.0.1:5000/predict",
-      formData
-    );
+  "https://car-price-predictor-2-2cps.onrender.com/predict",
+  formData
+);
 
     console.log(response.data);
 
